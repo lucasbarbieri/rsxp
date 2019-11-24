@@ -1,2 +1,2 @@
-# rsxp
-Rocket Seat Experience
+# RocketSeat Experience
+Exercício de migração para NodeJS e ReactJs
