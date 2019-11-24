@@ -6,4 +6,7 @@ Fala Dev! Tudo bem? Vamos começar nosso exercício e para isso você precisará
 1. Acesse o site do NodeJs e baixe a versão compativel com seu sistema operacional:
 https://nodejs.org/en/download/
 
-** Você também pode instalar pelo seu gerenciador de pacotes.
+Você também pode instalar pelo seu gerenciador de pacotes.
+
+2. Baixe o pacote que eu preparei para o nosso desafio:
+https://linkparaopacote.com.br
